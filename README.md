@@ -112,8 +112,7 @@ This project transforms HR data into a valuable decision-making tool. By cleansi
 ## Let's Connect
 If you're interested in this work or have an exciting data-driven opportunity, feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile)  
-Email: your.email@example.com
+LinkedIn:  www.linkedin.com/in/saher-younas1-222134139
+Email: saheryounas06@gmail.com
 
-Turning HR data into actionable insights.
 
