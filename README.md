@@ -101,14 +101,6 @@ Identifies early attrition risks for proactive employee retention.
 ## Summary of Analysis
 This project transforms HR data into a valuable decision-making tool. By cleansing and analyzing workforce data, it uncovers trends in hiring, promotions, retention, and attrition, making it an essential asset for HR teams looking to optimize workforce planning and strategy.
 
-## How to Use This Project
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/hr-database-analysis.git
-   ```
-2. Import `hr_db.sql` into your MySQL database.
-3. Run the SQL queries in `analysis_queries.sql` to generate workforce insights.
-
 ## Let's Connect
 If you're interested in this work or have an exciting data-driven opportunity, feel free to reach out!
 
